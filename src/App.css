@@ -1,0 +1,155 @@
+header {
+  position: fixed;
+  display: block;
+  width: 100%;
+  color: black;
+  z-index: 999;
+  background-color: transparent;
+  margin-top: 0px;
+  height: 100px;
+}
+
+
+.btn-default {
+  box-shadow: 2px 1.5px 1.5px black;
+}
+
+.landing-div {
+  text-align: center;
+  height: 300px;
+  padding: 8%;
+  margin: auto auto;
+}
+
+.landing-title {
+  font-family: 'Pacifico', cursive;
+  font-size: 125px;
+  color: white;
+}
+
+.landing-position {
+  color: white;
+}
+
+.landing-sub {
+  color: white;
+  font-size: 35px;
+}
+
+.home-div {
+  padding: 15%;
+}
+
+.about-div {
+  padding: 13%;
+  height: 855px;
+}
+
+.about-inner-div {
+  color: black;
+  background-color: white;
+  box-shadow: 3px 3px 3px black;
+}
+
+.nav-section {
+  text-align: center;
+  margin-top: 15px;
+  background-color: transparent;
+}
+
+.home-btn {
+  font-size: 25px;
+  margin-right: 20px;
+  color: white;
+}
+
+.about-btn {
+  font-size: 25px;
+  margin-right: 20px;
+  color: white;
+}
+
+.project-btn {
+  font-size: 25px;
+  margin-right: 20px;
+  color: white;
+}
+
+.contact-btn {
+  font-size: 25px;
+  margin-right: 20px;
+  color: white;
+}
+
+.project-title {
+  background-color: transparent;
+  text-align: center;
+  color: white;
+  font-family: 'Pacifico', cursive;
+}
+
+.project-div {
+  padding-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ReactFlipCard__Front {
+  position: relative !important;
+}
+.cardie-one {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 1.5%;
+}
+.cardie {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 1%;
+}
+
+
+.card-one {
+  background: white;
+  height: 400px;
+  width: 400px;
+}
+
+.card {
+  max-width: 400px !important;
+  padding: 1% !important;
+}
+
+.card-title {
+  font-size: 30px !important;
+}
+
+.card-back {
+  background: white;
+  height: 400px;
+  width: 400px;
+  padding: 1%;
+}
+
+.contact-div {
+  padding: 15%;
+}
+
+.social {
+    background-color: white;
+    opacity: 2;
+    color: black;
+    margin: 0;
+    padding: 5%;
+}
+
+.social ul {
+    margin: 0;
+    padding: 5px;
+}
+
+.social ul li {
+    margin: 5px;
+    list-style: none outside none;
+    display: inline-block;
+}

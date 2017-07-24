@@ -1,0 +1,9 @@
+body {
+  font-family: 'Oregano', cursive;
+  font-size: 25px;
+  height: 800px;
+  background-image: url("./pexels-photo-485865.jpeg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
